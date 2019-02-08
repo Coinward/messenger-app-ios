@@ -1,5 +1,5 @@
-## Mesibo Messenger for iOS
-Mesibo Messenger is an open-source app with real-time messaging, voice and video call features. This repo contains the source code for Mesibo Messenger App for iOS. The GitHub repository for Android version is [here](https://github.com/mesibo/messenger-app-android).
+## 150 Messenger for iOS
+150 Messenger is an open-source app with real-time messaging, voice and video call features. This repo contains the source code for 150 Messenger App for iOS. The GitHub repository for Android version is [here](https://github.com/150/messenger-app-android).
 
 ### Features
 - One-on-one messaging and Group chat
@@ -13,11 +13,11 @@ Mesibo Messenger is an open-source app with real-time messaging, voice and video
 
 Latest versions are also available through Google Play Store and Apple App Store:
 
-<a href="https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication"><img
+<a href="https://play.google.com/store/apps/details?id=com.150.150application"><img
   alt="Get it on Google Play" height="80"
-  src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" /></a> <a href="https://itunes.apple.com/us/app/mesibo-realtime-messaging-voice-video/id1222921751"><img
+  src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" /></a> <a href="https://itunes.apple.com/us/app/150-realtime-messaging-voice-video/id1222921751"><img
   alt="Get it on Apple App Store" height="80"
-  src="https://mesibo.com/documentation/images/app/apple_app_store.png" /></a>
+  src="https://150.com/documentation/images/app/apple_app_store.png" /></a>
 
 ## Downloading the Source Code
 
@@ -29,10 +29,10 @@ To download, open a terminal and issue following commands:
     $ mkdir Messenger
     $ cd Messenger
     $ git lfs install
-    $ git clone https://github.com/mesibo/messenger-app-ios.git
+    $ git clone https://github.com/150/messenger-app-ios.git
 
 ### Download the code as a zip file
-You can also download the complete iOS Messenger source code as a [zip file](https://github.com/mesibo/messenger-app-ios/archive/master.zip). Although simple, the downsize of this approach is that you will have to download the complete source code everytime it is updated on the repository. 
+You can also download the complete iOS Messenger source code as a [zip file](https://github.com/150/messenger-app-ios/archive/master.zip). Although simple, the downsize of this approach is that you will have to download the complete source code everytime it is updated on the repository. 
 
 > WARNING! zip file will be quite large due to inclusion of bitcode enabled frameworks. `git clone` is the recommended approach.
 
@@ -59,11 +59,11 @@ Login using your phone number. You can even start using the app you've just buil
 
 ## Key SDKs user in this project
 
-These apps use following [Mesibo SDKs](https://mesibo.com).
+These apps use following [150 SDKs](https://150.com).
 
-- Mesibo SDK
-- Mesibo Messaging UI Module
-- Mesibo Call UI Module
+- 150 SDK
+- 150 Messaging UI Module
+- 150 Call UI Module
 
 These apps also use following third party libraries/services.
 
@@ -72,7 +72,7 @@ These apps also use following third party libraries/services.
 
 ## Documentation & Tutorials
 
-- [Mesibo Documentation](https://mesibo.com/documentation/) 
-- [Mesibo Get Started Guide](https://mesibo.com/documentation/get-started/).
-- Tutorial - [A fully featured WhatsApp clone using mesibo](https://mesibo.com/documentation/tutorials/open-source-whatsapp-clone/)
+- [150 Documentation](https://150.com/documentation/) 
+- [150 Get Started Guide](https://150.com/documentation/get-started/).
+- Tutorial - [A fully featured WhatsApp clone using 150](https://150.com/documentation/tutorials/open-source-whatsapp-clone/)
 
